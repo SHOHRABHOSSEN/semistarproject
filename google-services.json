@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "752516177277",
+    "project_id": "semesterproject-a7e26-c3549",
+    "storage_bucket": "semesterproject-a7e26-c3549.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752516177277:android:43ef54303cb62f69b38014",
+        "android_client_info": {
+          "package_name": "com.example.e_voting_android_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhIki_j4NrQMiPocE3JJY98CogcCGn8mA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
